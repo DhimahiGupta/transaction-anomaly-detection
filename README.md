@@ -1,6 +1,5 @@
 # Transaction Anomaly Detection for Fraud Risk
 
-Overview
 This project focuses on identifying potential fraudulent transactions using data analytics techniques. The goal is to detect unusual patterns in transaction data such as abnormal amounts, high-frequency activity, and suspicious timing.
 
 Dataset
@@ -36,9 +35,9 @@ Outcome
 Developed a simple rule-based anomaly detection framework useful for early-stage fraud detection and risk monitoring.
 
 Project Structure
-- `notebook/` → Python analysis
-- `sql/` → SQL queries for anomaly detection
-- `data/` → dataset
+- notebook → Python analysis
+- sql → SQL queries for anomaly detection
+- data → dataset
 - `images/` → visualizations
 
 Future Improvements
