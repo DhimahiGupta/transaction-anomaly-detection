@@ -38,7 +38,7 @@ Project Structure
 - notebook → Python analysis
 - sql → SQL queries for anomaly detection
 - data → dataset
-- `images/` → visualizations
+- images → visualizations
 
 Future Improvements
 - Machine learning-based anomaly detection
